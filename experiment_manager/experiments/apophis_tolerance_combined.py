@@ -36,7 +36,7 @@ manager = Exp.ExperimentManager("apophis_baseline")
 problem = init.GetApophis1979
 
 # Number of outputs over the span of our integration (careful as too many points will eat file storage)
-output_samples=1
+output_samples=2500
 
 # We want to vary the tolerance of TES from 10^-1 to 10^-6 and run an integration 
 # at each value of tolerance chosen i.e. "samples" integrations
