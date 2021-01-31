@@ -42,6 +42,6 @@ TES uses .json input files, the format is quite self-explanatory but I will be w
 
  The TES package is configured to compile with GCC and the src directory contains a makefile for building TES. When in the src directory, use one of the two following commands to build TES:
 
-To build TES using double-precision floating-point throughout use the command: "make".
-To build TES using extended precision in the Kepler solve use the command: "make long".
+* to build TES using double-precision floating-point throughout use the command: "make".
+* to build TES using extended precision in the Kepler solve use the command: "make long".
 
