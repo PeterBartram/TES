@@ -7,7 +7,7 @@ Look at the Apophis file under experiments to see a worked example of how to run
 
 ## Introduction 
 
-TES is an n-body integration package for modelling the evolution of exoplanet systems. This TES distribution comes in two parts: 
+TES is an n-body integration package for modelling the evolution of exoplanet systems that I developed during my PhD with my supervisor Alexander Wittig at the University of Southampton. This TES distribution comes in two parts: 
 1. The C++ TES source code.
 2. The python based experiment manager for running experiments and plotting the results.
 
