@@ -4,7 +4,7 @@
 
 Look at the Apophis file under experiments to see a worked example of how to run experiments with TES using our experiment manager. Afterwards, look at the Apophis file under plotting to see how to load and plot the experiment data. Output data is stored under "experiment manager/results" and should be cleared periodically along with the temporary data in "experiment_manager/temp".
 
-If you use TES or the experiment manager in your research then please cite this paper: https://arxiv.org/abs/2102.00465
+If you use TES in your research then please cite this paper: https://doi.org/10.1093/mnras/stab896
 
 
 ## Introduction 
