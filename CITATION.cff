@@ -1,0 +1,13 @@
+cff-version: "1.1.0"
+message: "If you use TES, please cite the following article."
+title: "Terrestrial exoplanet simulator: an error optimal planetary system integrator that permits close encounters."
+doi: "10.1093/mnras/stab896"
+authors: 
+  -
+    family-names: Bartram
+    given-names: Peter
+  -
+    family-names: Wittig
+    given-names: Alexander
+
+
